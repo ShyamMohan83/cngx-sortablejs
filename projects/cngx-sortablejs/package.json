@@ -1,18 +1,18 @@
 {
-  "name": "nxt-sortablejs",
+  "name": "cngx-sortablejs",
   "keywords": [
-    "nxt-sortablejs",
+    "cngx-sortablejs",
     "angular-sortablejs",
     "sortablejs",
     "angular",
     "sortable",
     "draggable"
   ],
-  "author": "smnbbrv",
+  "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Liquid-JS/nxt-sortablejs"
+    "url": ""
   },
   "publishConfig": {
     "access": "public"

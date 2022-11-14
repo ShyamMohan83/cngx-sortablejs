@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { RouterModule } from '@angular/router';
 import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
-import { SortablejsModule } from 'nxt-sortablejs';
+import { SortablejsModule } from 'cngx-sortable';
 import { AppComponent } from './app.component';
 import { ExamplesModule } from './examples/examples.module';
 import { MultipleListsComponent } from './examples/multiple-lists/multiple-lists.component';

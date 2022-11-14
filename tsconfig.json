@@ -19,11 +19,11 @@
       "dom"
     ],
     "paths": {
-      "nxt-sortablejs": [
-        "./projects/nxt-sortablejs"
+      "cngx-sortable": [
+        "./projects/cngx-sortable"
       ],
-      "nxt-sortablejs/*": [
-        "./projects/nxt-sortablejs/*"
+      "cngx-sortable/*": [
+        "./projects/cngx-sortable/*"
       ]
     }
   }

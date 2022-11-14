@@ -10,8 +10,8 @@
       ],
       "parserOptions": {
         "project": [
-          "projects/nxt-sortablejs/tsconfig.lib.json",
-          "projects/nxt-sortablejs/tsconfig.spec.json"
+          "projects/cngx-sortable/tsconfig.lib.json",
+          "projects/cngx-sortable/tsconfig.spec.json"
         ],
         "createDefaultProgram": true
       },

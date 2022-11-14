@@ -1,6 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
-import { SortablejsModule } from 'nxt-sortablejs';
+import { SortablejsModule } from 'cngx-sortable';
 import { ChildComponentComponent } from './cross-components-multiple-lists/child-component/child-component.component';
 import { CrossComponentsMultipleListsComponent } from './cross-components-multiple-lists/cross-components-multiple-lists.component';
 
